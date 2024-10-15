@@ -1,0 +1,35 @@
+{
+  "name": "spline_model",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@gsap/react": "^2.1.1",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^1.9.20",
+    "events": "^3.3.0",
+    "gsap": "^3.12.5",
+    "gsap-trial": "^3.12.5",
+    "next": "14.2.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "three": "^0.167.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.6",
+    "typescript": "^5"
+  }
+}
