@@ -469,7 +469,7 @@ export default function Home() {
             </a>
             <p>[ 2021 - 2022 ]</p>
             <br />
-            <p> - Planned and perpared lessons </p>
+            <p> - Planned and prepared lessons </p>
             <p> - Teached algorithm and python</p>
             <p> - Mentored participants' team projects</p>
             <p> - Interviewed +100 students</p>
@@ -487,8 +487,8 @@ export default function Home() {
             <p>[ April 2022 - Feb 2023 ]</p>
             <br />
             <p> - Project manager </p>
-            <p> - Desinger </p>
-            <p> - Copy right writter</p>
+            <p> - Designer </p>
+            <p> - Copy right writer</p>
 
             <a
               href="https://www.facebook.com/ecmbillingcenter"
